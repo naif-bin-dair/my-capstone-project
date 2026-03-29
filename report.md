@@ -2,7 +2,7 @@
 
 **Student:** naif ali ayed bin dair  
 **Dataset:** Melbourne Housing Snapshot (`melb_data.csv`)  
-**Target Variable:** `Price` (AUD)  
+**Target Variable:** `Price`
 
 ---
 
