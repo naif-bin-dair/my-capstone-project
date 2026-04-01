@@ -1,6 +1,6 @@
 # Melbourne Housing — Capstone Project
 
-**Student:** naif ali ayed bin dair
+**Student:** naif ali ayed bin dair  
 **Dataset:** Melbourne Housing Snapshot  
 
 ---
